@@ -135,18 +135,18 @@ a:active {
   body {
     overflow-y: hidden; /* Hide vertical scrollbar */
     overflow-x: hidden; /* Hide horizontal scrollbar */
+    margin: 0 auto;
   }
 
   .container {
     background-color: #242145;
     width: 400px;
     height: 100vh;
-    margin: 0 auto;
   }
 
   img {
     margin: 20px 60px;
-    width: 250px;
+    width: 200px;
   }
 
   input {
@@ -168,7 +168,7 @@ a:active {
   }
 
   .line {
-    background-color: transparent;
+    background-color: grey;
   }
 
   button {
@@ -179,7 +179,7 @@ a:active {
     font-size: 12px;
     margin-bottom: 5px;
     width: 300px;
-    height: 40px;
+    height: 30px;
     color: #fff;
   }
 
