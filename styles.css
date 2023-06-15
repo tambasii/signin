@@ -8,12 +8,13 @@ body {
   background-color: #0d0f12;
   overflow-x: hidden;
   position: relative;
+  height: 100vh;
 }
 
 .container {
   background-color: #242145;
   width: 700px;
-  height: 665px;
+  height: auto;
   margin: 0 auto;
 }
 
