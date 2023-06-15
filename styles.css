@@ -132,6 +132,11 @@ a:active {
 /*Media query */
 
 @media only screen and (max-width: 700px) {
+  body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+
   .container {
     background-color: #242145;
     width: 400px;
