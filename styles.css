@@ -101,13 +101,13 @@ button {
 footer {
   text-align: center;
   width: 100%;
-  color: #fff;
+  color: grey;
   margin-top: 20px;
 }
 
 /* unvisited link */
 a:link {
-  color: white;
+  color: #e8495f;
 }
 
 /* visited link */
@@ -117,7 +117,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: white;
+  color: #e8495f;
 }
 
 /* selected link */
@@ -162,7 +162,7 @@ a:active {
   }
 
   button {
-    background-color: #36373b;
+    background-color: #e8495f;
     border: none;
     margin-top: 40px;
     font-family: monospace;
