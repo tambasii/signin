@@ -14,7 +14,7 @@ body {
 .container {
   background-color: #242145;
   width: 700px;
-  height: auto;
+  height: 100vh;
   margin: 0 auto;
 }
 
@@ -135,6 +135,7 @@ a:active {
   .container {
     background-color: #242145;
     width: 400px;
+    height: 100vh;
     margin: 0 auto;
   }
 
